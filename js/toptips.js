@@ -1,5 +1,5 @@
 /*
- * toptips
+ * toptips.js
  * By Truimo
 */
 //顶部提示
